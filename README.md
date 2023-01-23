@@ -1,4 +1,4 @@
-# Projeto-gerador-de-senhas
+# Gerador de Senhas
 
 ### Projeto feito com HTML5, Javascript e CSS
 
